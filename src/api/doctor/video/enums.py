@@ -1,0 +1,22 @@
+WEIGHT_INSTALLATION = 0
+FOOD_AND_HYDRATION_INSTALLATION = 1
+MOTION_INSTALLATION = 2
+SLEEP_INSTALLATION = 3
+MIND_INSTALLATION = 4
+WELCOME = 5
+MISSING_A_DAY = 6
+FAILING_A_MACRO = 7
+STOP_CHALLENGE_CHOOSE = 8
+
+
+VIDEO_TYPES = (
+    (WEIGHT_INSTALLATION, 'Weight Installation'),
+    (FOOD_AND_HYDRATION_INSTALLATION, 'Food and Hydration Installation'),
+    (MOTION_INSTALLATION, 'Motion Installation'),
+    (SLEEP_INSTALLATION, 'Sleep Installation'),
+    (MIND_INSTALLATION, 'Mind Installation'),
+    (WELCOME, 'Welcome'),
+    (MISSING_A_DAY, 'Missing a Day'),
+    (FAILING_A_MACRO, 'Failing a Macro'),
+    (STOP_CHALLENGE_CHOOSE, 'Stop Challenge Choose')
+)

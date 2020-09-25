@@ -1,0 +1,2 @@
+# Celery Tasks Names
+DAILY_FOOD_AND_HYDRATION_ASSESSMENTS = "check_and_create_daily_food_and_hydration_assessment"

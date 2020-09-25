@@ -1,0 +1,3 @@
+# Celery Tasks Names
+REMIND_ME_SURROUNDING_ASSESSMENTS = "check_and_change_remind_me_daily_surrounding_assessment"
+IN_PROGRESS_SURROUNDING_ASSESSMENT = "check_and_change_in_progress_daily_surrounding_assessment"
